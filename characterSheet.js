@@ -12,7 +12,7 @@ const data = {
     max: 12,
   },
   sanity: {
-    current: 62,
+    current: 61,
     max: 62,
   },
 
